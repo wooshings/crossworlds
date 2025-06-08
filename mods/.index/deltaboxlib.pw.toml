@@ -1,0 +1,16 @@
+filename = 'deltaboxlib-2.1.1-forge-1.20.1.jar'
+name = 'Deltabox Lib'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '96736b3391e235cdb07d58f34d1c3359e18b2f8bfc34f194105a073f75b5766e350964d669441adcfc495754eb679030e896525f03eceded86a02baafd0e07d8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FDGHOWuC/versions/a38K7lP5/deltaboxlib-2.1.1-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'FDGHOWuC'
+version = 'a38K7lP5'

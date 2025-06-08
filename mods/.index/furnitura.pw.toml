@@ -1,0 +1,16 @@
+filename = 'furnitura-1.12-1.20.1.jar'
+name = 'Furnitura'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'df32dcf589396827daf94541f67695f4ccacd54451e279bf2e41d7e3396246aa368bbf24214d4066e1cd7d93652111cc8551f0699f1a3246d4f9588edabbc35b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZHBMStee/versions/SiAiw27B/furnitura-1.12-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'ZHBMStee'
+version = 'SiAiw27B'

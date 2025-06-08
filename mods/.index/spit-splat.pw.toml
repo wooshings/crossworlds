@@ -1,0 +1,16 @@
+filename = 'splat-1.4.1.jar'
+name = 'Spit Splat'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a1ca6b57f8fa582855ea4649afcfe2fc6d309511549aec728ec0454d80e54f7fbd43ed60c78918be4a3fa4fd47dd22dac8577e21111ba94a52c4cd504aca1bf2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/G1j7wpKw/versions/tXU8Ntco/splat-1.4.1.jar'
+
+[update.modrinth]
+mod-id = 'G1j7wpKw'
+version = 'tXU8Ntco'

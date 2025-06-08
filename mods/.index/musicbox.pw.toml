@@ -1,0 +1,16 @@
+filename = 'musicbox-1.20.1-forge-2.0.1.jar'
+name = 'Music Box'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = 'a5752c1338e48c0cf635e4abf403f38a967d80df47fe203b61aad891715f8a2c007c444a416c91a070ff7b567de4fe729c4dbf13d1203be5667fc50ada1636b2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hKWZWeEG/versions/DNvMy3B4/musicbox-1.20.1-forge-2.0.1.jar'
+
+[update.modrinth]
+mod-id = 'hKWZWeEG'
+version = 'DNvMy3B4'

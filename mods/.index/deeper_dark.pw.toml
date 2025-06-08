@@ -1,0 +1,16 @@
+filename = 'deeper_dark-3.0.2.jar'
+name = 'Deeper Dark'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0c23428a17ed40a31c5e4b54a7f81dc4680818585bd8dc946325050d9df7860cc7fc24c88c7f0284b61972b70bb5797e353b689240b982058a242d43ed3a3e9e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nHr26oc2/versions/sq2zNkf4/deeper_dark-3.0.2.jar'
+
+[update.modrinth]
+mod-id = 'nHr26oc2'
+version = 'sq2zNkf4'
